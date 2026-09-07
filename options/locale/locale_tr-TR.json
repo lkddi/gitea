@@ -2525,7 +2525,6 @@
   "repo.diff.review.self_reject": "Değişiklik isteği sahipleri kendi değişiklik isteklerinde değişiklik talebinde bulunamazlar",
   "repo.diff.review.reject": "Değişiklik iste",
   "repo.diff.review.self_approve": "Değişiklik isteği sahipleri kendi değişiklik isteklerini onaylayamazlar",
-  "repo.diff.committed_by": "işlemeyi yapan:",
   "repo.commits.avatar_stack_and": "ve",
   "repo.diff.protected": "Korumalı",
   "repo.diff.image.side_by_side": "Yan Yana",

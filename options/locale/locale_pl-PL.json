@@ -2623,8 +2623,6 @@
   "repo.diff.review.self_reject": "Autorzy propozycji zmian nie mogą żądać zmian w ich własnej propozycji",
   "repo.diff.review.reject": "Zażądaj zmian",
   "repo.diff.review.self_approve": "Autorzy propozycji zmian nie mogą zatwierdzać ich własnej propozycji",
-  "repo.diff.committed_by": "zatwierdzone przez",
-  "repo.diff.coauthored_by": "współtworzone przez",
   "repo.commits.avatar_stack_and": "i",
   "repo.commits.avatar_stack_people": "%d osób",
   "repo.diff.protected": "Chronione",

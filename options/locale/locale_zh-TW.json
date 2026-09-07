@@ -2213,7 +2213,6 @@
   "repo.diff.review.self_reject": "合併請求的作者不能對自己的合併請求要求變更",
   "repo.diff.review.reject": "請求變更",
   "repo.diff.review.self_approve": "合併請求的作者不能核可自己的合併請求",
-  "repo.diff.committed_by": "提交者",
   "repo.commits.avatar_stack_and": "和",
   "repo.diff.protected": "受保護",
   "repo.diff.image.side_by_side": "並列",

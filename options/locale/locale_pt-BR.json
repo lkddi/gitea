@@ -2227,7 +2227,6 @@
   "repo.diff.review.self_reject": "Os autores do pull request não podem solicitar alterações em seus próprios pull request",
   "repo.diff.review.reject": "Solicitar alterações",
   "repo.diff.review.self_approve": "Os autores do pull request não podem aprovar seu próprio pull request",
-  "repo.diff.committed_by": "commit de",
   "repo.commits.avatar_stack_and": "e",
   "repo.diff.protected": "Protegido",
   "repo.diff.image.side_by_side": "Lado a Lado",

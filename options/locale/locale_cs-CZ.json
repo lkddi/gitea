@@ -2212,7 +2212,6 @@
   "repo.diff.review.self_reject": "Autoři pull requestu nemohou požadovat změny na svém vlastním pull requestu",
   "repo.diff.review.reject": "Požadovat změny",
   "repo.diff.review.self_approve": "Autoři pull requestu nemohou schválit svůj vlastní pull request",
-  "repo.diff.committed_by": "odevzdal",
   "repo.commits.avatar_stack_and": "a",
   "repo.diff.protected": "Chráněno",
   "repo.diff.image.side_by_side": "Vedle sebe",

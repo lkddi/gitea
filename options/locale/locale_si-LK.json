@@ -1524,7 +1524,6 @@
   "repo.diff.review.comment": "අදහස",
   "repo.diff.review.approve": "අනුමත",
   "repo.diff.review.reject": "වෙනස්කම් ඉල්ලන්න",
-  "repo.diff.committed_by": "විසින් කැප",
   "repo.commits.avatar_stack_and": "සහ",
   "repo.diff.protected": "ආරක්ෂිත",
   "repo.diff.image.side_by_side": "පැත්ත විසින් පැත්ත",

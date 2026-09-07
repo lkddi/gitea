@@ -2127,7 +2127,6 @@
   "repo.diff.review.comment": "Коментар",
   "repo.diff.review.approve": "Затвердити",
   "repo.diff.review.reject": "Запит змін",
-  "repo.diff.committed_by": "зафіксовано",
   "repo.commits.avatar_stack_and": "та",
   "repo.diff.protected": "Захищений",
   "repo.diff.image.side_by_side": "Поруч",

@@ -1208,7 +1208,6 @@
   "repo.diff.review.comment": "Kommentar",
   "repo.diff.review.approve": "Godkänn",
   "repo.diff.review.reject": "Begär ändringar",
-  "repo.diff.committed_by": "committad av",
   "repo.commits.avatar_stack_and": "och",
   "repo.releases.desc": "Följ projektversioner och nerladdningar.",
   "repo.release.releases": "Släpp",

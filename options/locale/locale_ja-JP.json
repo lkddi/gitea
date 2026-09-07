@@ -2623,8 +2623,6 @@
   "repo.diff.review.self_reject": "プルリクエストの作成者は自分のプルリクエストで変更要請できません",
   "repo.diff.review.reject": "変更要請",
   "repo.diff.review.self_approve": "プルリクエストの作成者は自分のプルリクエストを承認できません",
-  "repo.diff.committed_by": "committed by",
-  "repo.diff.coauthored_by": "co-authored by",
   "repo.commits.avatar_stack_and": "と",
   "repo.commits.avatar_stack_people": "%d人",
   "repo.diff.protected": "保護されているファイル",

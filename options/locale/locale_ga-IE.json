@@ -2623,8 +2623,6 @@
   "repo.diff.review.self_reject": "Ní féidir le húdair iarratais tarraing athruithe a iarraidh ar a n-iarratas tarraingthe",
   "repo.diff.review.reject": "Iarr athruithe",
   "repo.diff.review.self_approve": "Ní féidir le húdair iarratais tarraing a n-iarratas tarraingthe féin a chead",
-  "repo.diff.committed_by": "tiomanta ag",
-  "repo.diff.coauthored_by": "comhúdaraithe ag",
   "repo.commits.avatar_stack_and": "agus",
   "repo.commits.avatar_stack_people": "%d duine",
   "repo.diff.protected": "Cosanta",

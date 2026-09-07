@@ -2027,7 +2027,6 @@
   "repo.diff.review.self_reject": "Izmaiņu pieprasījuma autors nevar pieprasīt izmaiņas savam izmaiņu pieprasījumam",
   "repo.diff.review.reject": "Pieprasīt izmaiņas",
   "repo.diff.review.self_approve": "Izmaiņu pieprasījuma autors nevar apstiprināt savu izmaiņu pieprasījumu",
-  "repo.diff.committed_by": "revīziju iesūtīja",
   "repo.commits.avatar_stack_and": "un",
   "repo.diff.protected": "Aizsargāts",
   "repo.diff.image.side_by_side": "Blakus",

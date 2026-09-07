@@ -2616,8 +2616,6 @@
   "repo.diff.review.self_reject": "Pull-Request-Autoren können keine Änderungen an ihren eigenen Pull-Request anfordern",
   "repo.diff.review.reject": "Änderung anfragen",
   "repo.diff.review.self_approve": "Pull-Request-Autoren können ihren eigenen Pull-Request nicht genehmigen",
-  "repo.diff.committed_by": "committet von",
-  "repo.diff.coauthored_by": "co-authored by",
   "repo.commits.avatar_stack_and": "und",
   "repo.commits.avatar_stack_people": "%d Personen",
   "repo.diff.protected": "Geschützt",

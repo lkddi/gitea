@@ -2603,8 +2603,6 @@
   "repo.diff.review.self_reject": "풀 리퀘스트 작성자는 자신의 풀 리퀘스트에 변경을 요청할 수 없습니다",
   "repo.diff.review.reject": "변경 요청",
   "repo.diff.review.self_approve": "풀 리퀘스트 작성자는 자신의 풀 리퀘스트를 승인할 수 없습니다",
-  "repo.diff.committed_by": "커밋한 사람",
-  "repo.diff.coauthored_by": "공동 작성자",
   "repo.commits.avatar_stack_and": "그리고",
   "repo.commits.avatar_stack_people": "%d 사람",
   "repo.diff.protected": "보호됨",

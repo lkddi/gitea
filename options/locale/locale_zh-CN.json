@@ -2595,8 +2595,6 @@
   "repo.diff.review.self_reject": "合并请求作者不能对自己的合并请求更改",
   "repo.diff.review.reject": "请求变更",
   "repo.diff.review.self_approve": "合并请求作者不能批准自己的合并请求",
-  "repo.diff.committed_by": "提交者",
-  "repo.diff.coauthored_by": "共同撰写人",
   "repo.commits.avatar_stack_and": "和",
   "repo.commits.avatar_stack_people": "%d 人",
   "repo.diff.protected": "受保护的",

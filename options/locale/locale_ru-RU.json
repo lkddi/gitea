@@ -1987,7 +1987,6 @@
   "repo.diff.review.self_reject": "Авторы запросов на слияние не могут запрашивать изменения в собственных запросах",
   "repo.diff.review.reject": "Запрос изменений",
   "repo.diff.review.self_approve": "Авторы запросов на слияние не могут одобрять собственные запросы",
-  "repo.diff.committed_by": "коммит произвёл",
   "repo.commits.avatar_stack_and": "и",
   "repo.diff.protected": "Защищено",
   "repo.diff.image.side_by_side": "Режим \"рядом\"",

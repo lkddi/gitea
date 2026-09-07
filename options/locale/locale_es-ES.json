@@ -1960,7 +1960,6 @@
   "repo.diff.review.self_reject": "Los autores del pull request no pueden solicitar cambios",
   "repo.diff.review.reject": "Solicitud de cambios",
   "repo.diff.review.self_approve": "Los autores del pull request no pueden aprobarlo",
-  "repo.diff.committed_by": "cometido por",
   "repo.commits.avatar_stack_and": "y",
   "repo.diff.protected": "Protegido",
   "repo.diff.image.side_by_side": "Lado a lado",

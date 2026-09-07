@@ -2623,8 +2623,6 @@
   "repo.diff.review.self_reject": "Autores de pedidos de integração não podem requisitar modificações sobre o seu próprio pedido de integração",
   "repo.diff.review.reject": "Solicitar modificações",
   "repo.diff.review.self_approve": "Autores de pedidos de integração não podem aprovar o seu próprio pedido de integração",
-  "repo.diff.committed_by": "cometido por",
-  "repo.diff.coauthored_by": "co-autorado por",
   "repo.commits.avatar_stack_and": "e",
   "repo.commits.avatar_stack_people": "%d pessoas",
   "repo.diff.protected": "Protegido",
